@@ -29,3 +29,5 @@ class Alien(Sprite):
         self.x += (self.ai_setting.alien_speed_factor *
                    self.ai_setting.fleet_direction)
         self.rect.x = self.x
+
+# shah karan
